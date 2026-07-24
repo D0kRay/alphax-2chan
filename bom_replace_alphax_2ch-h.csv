@@ -1,0 +1,3 @@
+# Temporary fallback for revision h until dedicated h replacements are defined.
+# Reuse revision g replacement map to keep BOM processing compatible.
+#include bom_replace_alphax_2ch-g.csv
